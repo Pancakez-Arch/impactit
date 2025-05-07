@@ -9,10 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "lucide-react": "^0.507.0",
+    "@heroicons/react": "^2.2.0",
+    "@sanity/image-url": "^1.1.0",
+    "@sanity/vision": "^3.88.1",
+    "mongoose": "^8.14.1",
     "next": "15.3.2",
+    "next-sanity": "^9.11.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-is": "^19.1.0",
+    "sanity": "^3.88.1",
+    "styled-components": "^6.1.17"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
